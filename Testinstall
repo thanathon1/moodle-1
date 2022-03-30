@@ -1,0 +1,1 @@
+git clone -b MOODLE_{{Version3}}_STABLE git://git.moodle.org/moodle.git  
